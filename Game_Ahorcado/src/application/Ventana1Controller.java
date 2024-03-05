@@ -55,5 +55,3 @@ public class Ventana1Controller {
         jugador.registrar(username, pass);
     }
 }
-
-
